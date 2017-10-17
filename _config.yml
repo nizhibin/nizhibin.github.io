@@ -77,7 +77,7 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: github
-  repo: git@github.com:nizhibin/nizhibin.github.io.git
+  type: git
+  repo: https://github.com/nizhibin/nizhibin.github.io.git
   branch: master
   theme: icarus
